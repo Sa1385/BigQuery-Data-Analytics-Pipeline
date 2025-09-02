@@ -1,0 +1,1 @@
+SELECT category, SUM(revenue) AS total_revenue FROM `your_project.your_dataset.sales_data` GROUP BY category ORDER BY total_revenue DESC;

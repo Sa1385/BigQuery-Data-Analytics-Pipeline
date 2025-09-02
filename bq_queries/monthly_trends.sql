@@ -1,0 +1,1 @@
+SELECT EXTRACT(YEAR FROM order_date) AS year, EXTRACT(MONTH FROM order_date) AS month, SUM(revenue) AS total_revenue FROM `your_project.your_dataset.sales_data` GROUP BY year, month ORDER BY year, month;
