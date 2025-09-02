@@ -67,6 +67,7 @@ python scripts/visualize_results.py
 ---
 
 ## 👤 Author
-- **Your Name** (Saini Patro)  
+-**Saini Patro**  
 - GitHub: [Sa1385](https://github.com/Sa1385)  
+
 - LinkedIn: [Saini Patro](https://www.linkedin.com/in/saini-patro/) 
