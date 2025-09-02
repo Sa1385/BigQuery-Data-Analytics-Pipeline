@@ -28,9 +28,9 @@ This project answers critical e-commerce questions such as:
 ---
 
 ## 📊 Dashboard Preview  
--[Download the Dashboard PDF](./docs/dashboard.pdf)  
-- ![Dashboard Page 1](./docs/screenshots/dashboard_page_1.png)
-- ![Dashboard Page 2](./docs/screenshots/dashboard_page_2.png) 
+-[Download the Dashboard PDF](ecommerce-performance-dashboard/docs/dashboard.pdf)  
+- ![Dashboard Page 1](ecommerce-performance-dashboard/docs/screenshots/dashboard_page_1.png)
+- ![Dashboard Page 2](ecommerce-performance-dashboard/docs/screenshots/dashboard_page_2.png) 
 
 Example Insights:  
 - Revenue trends over time  
@@ -71,5 +71,6 @@ python scripts/visualize_results.py
 -**Saini Patro**  
 - GitHub: [Sa1385](https://github.com/Sa1385)  
 - LinkedIn: [Saini Patro](https://www.linkedin.com/in/saini-patro/) 
+
 
 
